@@ -1,0 +1,14 @@
+# Ignore build artifacts
+build/
+dist/
+*.pyc
+__pycache__/
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+
+# Chat history
+chat_history.json
